@@ -11,6 +11,7 @@ int main(void) {
     while (!WindowShouldClose())    // Detect window close button or ESC key
     {
         BeginDrawing();
+//salalsjlakdlkajshfljkqwglefigqlewguf
 
         ClearBackground(GRAY);
 
